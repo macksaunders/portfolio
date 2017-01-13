@@ -106,7 +106,7 @@ body {
   min-height: 100%;
 }
 body {
-  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "avenir";
   font-weight: normal;
   text-transform: none;
   font-size: 16px;
@@ -117,7 +117,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "avenir";
 }
 h1 {
   font-size: 40px;
@@ -230,7 +230,7 @@ a.light-text:focus {
 }
 .navbar {
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "avenir";
   font-size: 14px;
 }
 .navbar-dark,
@@ -433,7 +433,7 @@ a.light-text:focus {
 .intro-video .intro-welcome {
   font-size: 20px;
   margin: 0;
-  font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "avenir";
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 .intro-img .brand-heading,
